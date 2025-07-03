@@ -19,7 +19,7 @@ Below is the BibTex for citing this snapshot of the repository.
 ```
 @misc{Gonzalez-Rodriguez2025,
 author = {B. González-Rodríguez and I. Gómez-Casares and B. Ghaddar and J. González-Díaz and B. Pateiro-López},
-title = {Learning in RLT-based Spatial Branching: Limitations of Strong Branching Imitation},
+title = {Learning in {RLT}-based Spatial Branching: Limitations of Strong Branching Imitation},
 year = {2025},
 publisher = {INFORMS Journal on Computing},
 doi = {10.1287/ijoc.2024.0775.cd},
